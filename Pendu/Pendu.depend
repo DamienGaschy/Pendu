@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1667572015 source:/home/damien/Documents/CodeBlocks/Pendu/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"fonction.h"
+
+1667569954 /home/damien/Documents/CodeBlocks/Pendu/fonction.h
+
+1667572324 source:/home/damien/Documents/CodeBlocks/Pendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"fonction.h"
+
+1667574226 source:/home/damien/Documents/CodeBlocks/Jeu/Pendu/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"fonction.h"
+
+1667574226 /home/damien/Documents/CodeBlocks/Jeu/Pendu/fonction.h
+
+1667574226 source:/home/damien/Documents/CodeBlocks/Jeu/Pendu/fonction.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	"fonction.h"
+
